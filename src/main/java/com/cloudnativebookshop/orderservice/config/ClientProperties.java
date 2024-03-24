@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.config;
+package com.cloudnativebookshop.orderservice.config;
 
 import jakarta.validation.constraints.NotNull;
 import org.springframework.boot.context.properties.ConfigurationProperties;

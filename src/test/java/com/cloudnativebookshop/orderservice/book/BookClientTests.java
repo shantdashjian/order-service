@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.book;
+package com.cloudnativebookshop.orderservice.book;
 
 import okhttp3.mockwebserver.MockResponse;
 import okhttp3.mockwebserver.MockWebServer;

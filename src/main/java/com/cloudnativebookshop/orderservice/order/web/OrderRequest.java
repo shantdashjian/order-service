@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.order.web;
+package com.cloudnativebookshop.orderservice.order.web;
 
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;

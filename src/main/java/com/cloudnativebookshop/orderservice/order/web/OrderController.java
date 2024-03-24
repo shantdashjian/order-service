@@ -1,7 +1,7 @@
-package com.cloudnaticebookshop.orderservice.order.web;
+package com.cloudnativebookshop.orderservice.order.web;
 
-import com.cloudnaticebookshop.orderservice.order.domain.Order;
-import com.cloudnaticebookshop.orderservice.order.domain.OrderService;
+import com.cloudnativebookshop.orderservice.order.domain.Order;
+import com.cloudnativebookshop.orderservice.order.domain.OrderService;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;

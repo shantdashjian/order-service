@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.order.domain;
+package com.cloudnativebookshop.orderservice.order.domain;
 
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 

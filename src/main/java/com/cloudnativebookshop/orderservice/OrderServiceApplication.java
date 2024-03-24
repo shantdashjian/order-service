@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice;
+package com.cloudnativebookshop.orderservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

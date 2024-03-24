@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.book;
+package com.cloudnativebookshop.orderservice.book;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;

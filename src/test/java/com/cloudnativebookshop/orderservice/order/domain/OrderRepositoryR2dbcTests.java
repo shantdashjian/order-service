@@ -1,6 +1,6 @@
-package com.cloudnaticebookshop.orderservice.order.domain;
+package com.cloudnativebookshop.orderservice.order.domain;
 
-import com.cloudnaticebookshop.orderservice.config.DataConfig;
+import com.cloudnativebookshop.orderservice.config.DataConfig;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.data.r2dbc.DataR2dbcTest;

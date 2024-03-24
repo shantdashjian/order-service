@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.order.domain;
+package com.cloudnativebookshop.orderservice.order.domain;
 
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.Id;

@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.book;
+package com.cloudnativebookshop.orderservice.book;
 
 public record Book(
 	String isbn,

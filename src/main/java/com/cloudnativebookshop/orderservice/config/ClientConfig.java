@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.config;
+package com.cloudnativebookshop.orderservice.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

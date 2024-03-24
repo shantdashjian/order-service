@@ -1,8 +1,8 @@
-package com.cloudnaticebookshop.orderservice.order.web;
+package com.cloudnativebookshop.orderservice.order.web;
 
-import com.cloudnaticebookshop.orderservice.order.domain.Order;
-import com.cloudnaticebookshop.orderservice.order.domain.OrderService;
-import com.cloudnaticebookshop.orderservice.order.domain.OrderStatus;
+import com.cloudnativebookshop.orderservice.order.domain.Order;
+import com.cloudnativebookshop.orderservice.order.domain.OrderService;
+import com.cloudnativebookshop.orderservice.order.domain.OrderStatus;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.reactive.WebFluxTest;

@@ -1,7 +1,7 @@
-package com.cloudnaticebookshop.orderservice.order.domain;
+package com.cloudnativebookshop.orderservice.order.domain;
 
-import com.cloudnaticebookshop.orderservice.book.Book;
-import com.cloudnaticebookshop.orderservice.book.BookClient;
+import com.cloudnativebookshop.orderservice.book.Book;
+import com.cloudnativebookshop.orderservice.book.BookClient;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

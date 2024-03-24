@@ -1,4 +1,4 @@
-package com.cloudnaticebookshop.orderservice.order.domain;
+package com.cloudnativebookshop.orderservice.order.domain;
 
 public enum OrderStatus {
 	ACCEPTED,
